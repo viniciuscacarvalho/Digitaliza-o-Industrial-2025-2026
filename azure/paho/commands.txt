@@ -1,0 +1,8 @@
+
+Reads the recived msgs. 
+az extension add --name azure-iot
+az iot hub monitor-events --hub-name test-0-viny --device-id test_0_viny_device
+
+compile
+gcc test_code_paho.c -o test_code_paho -lpaho-mqtt3cs -lssl -lcrypto
+

@@ -1,0 +1,6 @@
+Create a IOT HUB
+
+Create a Stream Analytics Input
+	link to the iothub
+
+

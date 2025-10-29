@@ -1,0 +1,22 @@
+Digitalização industrial oct 6
+
+recap do CIM model
+
+OPC: interligação de PLCs
+	-UA: Unified Archtecture
+	
+Edge: uma cloud proprietaria. que sono man pqpp« 
+
+
+Trabalho 1
+
+Machine Simulator ------------(MODBUS)---------------Supervisor----MQTT----Cloud
+
+Machine Simulator ------------(OPC-UA)---------------Supervisor----MQTT----Cloud
+
+Trabalho 2
+Machine simulator
+
+
+EasyPLC
+MACHINE Simulator
