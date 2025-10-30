@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "socket.h": "c",
+        "resolv.h": "c",
+        "types.h": "c",
+        "buffer.h": "c",
+        "errno.h": "c",
+        "state.hpp": "c",
+        "pthread.h": "c"
+    }
+}
